@@ -1,0 +1,13 @@
+body {
+    background: blue;
+}
+
+h1 {
+    font-size: 250px;
+    font-style: oblique;
+    border-style: solid;
+    border-color: rgb(38, 238, 245);
+    border-width: 10px;
+    color: rgb(231, 156, 15);
+    text-align: center;
+}
